@@ -34,7 +34,7 @@ REQUIRED_PACKAGES = [
     'mir_eval == 0.7',
     'note-seq == 0.0.3',
     #'numba == 0.49.1',
-    'numpy == 1.21.6',
+    'numpy == 1.22',
     'Pillow == 9.2.0',
     'pretty_midi == 0.2.9',
     'pygtrie == 2.5.0',
