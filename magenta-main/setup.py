@@ -36,12 +36,13 @@ REQUIRED_PACKAGES = [
     #'numba == 0.49.1',
     'numpy == 1.23',
     'Pillow == 9.2.0',
-    #'pretty_midi == 0.2.9',
-    'pretty_midi'
+    'pretty_midi == 0.2.2',
+    #'pretty_midi == 0.2.9'
     'pygtrie == 2.5.0',
     'python-rtmidi == 1.5.8',
     'scikit-image == 0.19.3',
-    'scipy == 1.7.3',
+    #'scipy == 1.7.3',
+    'scipy == 1.5'
     'six == 1.16.0',
     'sk-video == 1.1.10',
     'sox == 1.4.1',
